@@ -1,5 +1,7 @@
 # Games
 
+![Games_project_logo](https://user-images.githubusercontent.com/121228383/212054659-f0178232-950b-4b76-8cd0-adb0b1e444a7.jpg)
+
 ## Описание проекта
 
 Интернет-магазине продаёт по всему миру видеоигры.
