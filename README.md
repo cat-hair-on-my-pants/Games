@@ -1,6 +1,6 @@
 # Games
 
-![Games_project_logo](https://user-images.githubusercontent.com/121228383/212054659-f0178232-950b-4b76-8cd0-adb0b1e444a7.jpg)
+![games](https://user-images.githubusercontent.com/121228383/212055108-0df0afac-e453-4f43-80eb-7345c1db44ff.jpg)
 
 ## Описание проекта
 
