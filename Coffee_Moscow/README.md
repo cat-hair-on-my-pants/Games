@@ -2,6 +2,7 @@
 
 Анализ возможности введения монетезации на основе пользовательского поведения в мобильной игре.
 
+![Coffe Moscow](https://github.com/cat-hair-on-my-pants/Student_projects/assets/121228383/3ffa8dca-16e8-4ef7-a82e-8831bba3f110)
 
 ## Описание проекта
 
