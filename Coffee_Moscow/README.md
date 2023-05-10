@@ -1,8 +1,8 @@
 # Coffee Moscow
 
-Анализ возможности введения монетезации на основе пользовательского поведения в мобильной игре.
+Анализ заведений общественного питания в Москве.
 
-![Coffe Moscow](https://github.com/cat-hair-on-my-pants/Student_projects/assets/121228383/3ffa8dca-16e8-4ef7-a82e-8831bba3f110)
+![Coffe Moscow](https://github.com/cat-hair-on-my-pants/Student_projects/blob/main/Coffee_Moscow/Coffee_Moscow.ipynb)
 
 ## Описание проекта
 
