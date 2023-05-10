@@ -2,7 +2,7 @@
 
 Анализ заведений общественного питания в Москве.
 
-![Coffe Moscow](https://github.com/cat-hair-on-my-pants/Student_projects/blob/main/Coffee_Moscow/Coffee_Moscow.ipynb)
+![Coffee Moscow](https://github.com/cat-hair-on-my-pants/Student_projects/assets/121228383/ec2661ee-258b-470f-9023-99bf93c7586c)
 
 ## Описание проекта
 
